@@ -125,7 +125,7 @@ food-delivery-app/
 
 Include screenshots of your app to showcase its features. Example:
 
-![Home Page](https://via.placeholder.com/800x400)
+![Home Page](C:/Users/harsh/OneDrive/Desktop/food ss/Screenshot (34))
 ![Cart Page](https://via.placeholder.com/800x400)
 
 ## Future Enhancements
