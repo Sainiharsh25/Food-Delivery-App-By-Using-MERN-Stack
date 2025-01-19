@@ -121,13 +121,6 @@ food-delivery-app/
 - `GET /api/orders/:id` - Get order details by ID
 - `PUT /api/orders/:id` - Update order status (Admin only)
 
-## Screenshots
-
-Include screenshots of your app to showcase its features. Example:
-
-![Home Page](C:/Users/harsh/OneDrive/Desktop/food ss/Screenshot (34))
-![Cart Page](https://via.placeholder.com/800x400)
-
 ## Future Enhancements
 
 - Implement payment gateway integration
